@@ -7,3 +7,5 @@ All of it will be sorted out to multiple adlists so you can use them seperately 
 I will also make a giant list of ads, adding every ad server i see.
 
 The main list of apps I'll use is probably mobile games and some Social Media apps.
+
+Please do note that i used some other ad lists so those won't be added (or it'll overlap i think)
