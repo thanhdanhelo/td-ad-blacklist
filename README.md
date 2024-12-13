@@ -1,3 +1,5 @@
+# (WILL BREAK), NOT ADVISED TO USE!
+
 This is an ad list that i'll add when i go digging through ad servers
 
 This is sort of a list of ad servers i'll add as i go thought Pi-hole's built in Query Logs and trying to search for multiple ad servers.
